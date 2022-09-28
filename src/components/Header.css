@@ -1,0 +1,18 @@
+.garis {
+    width: 100%;
+    text-align: center;
+    border-bottom: 0.5px solid #dddddd;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    
+}
+.garis-text {
+    background: #F0F8FF;
+    padding: 0 10px;
+    
+}
+
+.judul {
+    text-align: center;
+    font-family: 'Roboto';
+  }
